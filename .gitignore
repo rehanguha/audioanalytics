@@ -1,0 +1,11 @@
+*/audioanalytica_dev
+audioanalytica_dev
+.vscode
+*/.vscode
+.DS_Store
+*.pyc
+*.TextGrid
+experiments
+output/*
+ui/node_modules
+input/*
